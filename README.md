@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="1056" height="298" alt="image" src="https://github.com/user-attachments/assets/61b19f20-fefb-447f-a4f7-f39ba6491fc6" />
+</div>
+  
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+FroGonDeveloper+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!;Estou+aprendendo+programa%C3%A7%C3%A3o+%F0%9F%9A%80" />
 
